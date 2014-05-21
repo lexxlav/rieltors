@@ -270,7 +270,7 @@ include ("my_templates/my_template.php");
          <div class="big_sl graditudes_slide_block">
           <div class="slider1">
            <div class="slide">
-             <div class="row-fluid">
+             <div class="row-fluid m_b">
                <div class="span3">
                  <div class="row-fluid gradituder_img">
                  <!-- photo -->
@@ -346,7 +346,7 @@ include ("my_templates/my_template.php");
   <div class="modal hide fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-        <h3 id="myModalLabel">Введите свои данные</h3>
+        <h4 id="myModalLabel">Введите свои данные</h4>
       </div>
       <div class="modal-body">
         <?php print render($page['webform_call']); ?> 

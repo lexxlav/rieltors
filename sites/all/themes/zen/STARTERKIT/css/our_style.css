@@ -402,14 +402,6 @@ outline: none;
 	text-align: left;
 }
 
-@font-face {
-    font-family: Tahoma; /* Имя шрифта */
-    src: url(fonts/tahoma.ttf); /* Путь к файлу со шрифтом */
-   }
-   P {
-    font-family: Tahoma;
-   }
-
  hr {
  	height: 1px;
  	background-color: #ffffff;
@@ -941,7 +933,7 @@ background-size: 128px;}
 }
 
 .big_sl .slide {
-	height: 200px;
+	height: 220px;
    vertical-align: top;
 }
 
@@ -950,7 +942,7 @@ background-size: 128px;}
 	border: 2px solid #cfcfcf;
 	border-radius: 10px;
 	margin-bottom: 30px;
-	height: 200px;
+	height: 220px;
 }
 
 .gradituders_text
@@ -1011,4 +1003,14 @@ left: 50%;
 
 .modal .form-item {
   margin-left: 0px;
+}
+
+.modal .form-actions input[type="submit"]
+{width: 290px;}
+
+.modal .form-item input {
+	width: 290px;
+}
+
+.m_b {
 }

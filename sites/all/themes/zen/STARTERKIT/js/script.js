@@ -33,7 +33,8 @@ Drupal.behaviors.my_custom_behavior = {
     minSlides: 1,
     maxSlides: 1,
     moveSlides: 1,
-    slideMargin: 10
+    slideMargin: 10,
+    adaptiveHeight:true
   });
 });
 
