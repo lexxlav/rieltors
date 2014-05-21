@@ -121,7 +121,7 @@ define('MAIL_LINE_ENDINGS', isset($_SERVER['WINDIR']) || strpos($_SERVER['SERVER
  */
 function drupal_mail($module, $key, $to, $language, $params = array(), $from = NULL, $send = TRUE) {
   $default_from = variable_get('site_mail', ini_get('sendmail_from'));
-
+  
   // Bundle up the variables into a structured array for altering.
   $message = array(
     'id'       => $module . '_' . $key,
@@ -188,7 +188,7 @@ function drupal_mail($module, $key, $to, $language, $params = array(), $from = N
       }
     }
   }
-
+  
   return $message;
 }
 

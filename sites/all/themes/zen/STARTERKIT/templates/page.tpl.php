@@ -6,11 +6,9 @@
  * Complete documentation for this file is available online.
  * @see https://drupal.org/node/1728148
  */
+include ("my_templates/my_template.php");
 ?>
-
-
 <div id="page2">
-
     <!-- -->
       <div class="row-fluid blue_block">
      <div class="container">
@@ -361,7 +359,9 @@
 
 
 <!-- -->
-<?php if ($messages) {
+<?php 
+if ($messages) {   
+   
   echo"
       <div class='modal hide fade' id='myModal2' tabindex='-1' role='dialog' aria-labelledby='myModalLabel' aria-hidden='true'>
       <div class='modal-header'>
@@ -370,7 +370,7 @@
       </div>
       <div class='modal-body'>";
      print $messages;
-  echo "   
+       echo "   
       <div class='modal-footer'>
         <button class='btn' data-dismiss='modal' aria-hidden='true'>Закрыть</button> 
       </div>
@@ -428,4 +428,5 @@ for ($i=0;$i<9;$i++){
     </div>
     </div>";
 }
-?>
+
+  ?>

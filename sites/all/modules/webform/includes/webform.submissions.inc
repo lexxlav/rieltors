@@ -302,6 +302,10 @@ function webform_submission_send_mail($node, $submission, $emails = NULL) {
       $message = drupal_mail('webform', 'submission', $address, $language, $mail_params, $email['from']);
       if ($message['result']) {
         $send_count++;
+        //-----------------
+           
+        //------------------
+
       }
     }
   }
