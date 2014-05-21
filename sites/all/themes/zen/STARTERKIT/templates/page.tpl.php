@@ -107,7 +107,7 @@ include ("my_templates/my_template.php");
    <div class="row-fluid block_text">
      <div class="big_blue_text">Этапы нашего с вами сотрудничества</div>
      <div class="silver_text">Если Вы хотите купить квартиру</div>
-     <img class="center_img" src="/sites/all/themes/zen/starterkit/images/pokupka.png">
+     <img class="center_img" src="/sites/all/themes/zen/STARTERKIT/images/pokupka.png">
      <div class="row-fluid text_left">
        <div class="span1"></div>
        <div class="span2">Оставьте заявку на сайте</div>
@@ -119,7 +119,7 @@ include ("my_templates/my_template.php");
      </div>
    
     <div class="silver_text margin_top">Если Вы хотите продать квартиру</div>
-     <img class="center_img" src="/sites/all/themes/zen/starterkit/images/prodazha.png">
+     <img class="center_img" src="/sites/all/themes/zen/STARTERKIT/images/prodazha.png">
      <div class="row-fluid text_left">
        <div class="span1"></div>
        <div class="span2">Оставьте заявку на сайте</div>
@@ -190,63 +190,63 @@ include ("my_templates/my_template.php");
      <div class="slider6">
        <div class="slide">
            
-          <a href="#inn" data-toggle="modal"><img src="/sites/all/themes/zen/starterkit/images/sert/mini-inn.jpg"></a>
+          <a href="#inn" data-toggle="modal"><img src="/sites/all/themes/zen/STARTERKIT/images/sert/mini-inn.jpg"></a>
           <div class="slide_block"><div class="slide_text">Свидетельство о постановке на учет в налоговом органе</div> 
           </div>
         
        </div>
        <div class="slide">
           <a href="#kv-attestat" data-toggle="modal">
-          <img src="/sites/all/themes/zen/starterkit/images/sert/mini-kv_attestat.jpg">
+          <img src="/sites/all/themes/zen/STARTERKIT/images/sert/mini-kv_attestat.jpg">
           </a>
           <div class="slide_block"><div class="slide_text">Квалификационный аттестат риэлтора</div> 
         </div>
        </div>
        <div class="slide">
           <a href="#ogrnip" data-toggle="modal">
-          <img src="/sites/all/themes/zen/starterkit/images/sert/mini-ogrnip.jpg">
+          <img src="/sites/all/themes/zen/STARTERKIT/images/sert/mini-ogrnip.jpg">
           </a>
           <div class="slide_block"><div class="slide_text">Свидетельство о регистрации ИП</div> 
          </div> 
        </div>
        <div class="slide">
           <a href="#sert-ok-obuch" data-toggle="modal">
-          <img src="/sites/all/themes/zen/starterkit/images/sert/mini-sert-obuch.jpg">
+          <img src="/sites/all/themes/zen/STARTERKIT/images/sert/mini-sert-obuch.jpg">
           </a>
           <div class="slide_block"><div class="slide_text">Сертификат об окончании обучения</div> 
         </div>
        </div>
        <div class="slide">
           <a href="#sert-sb" data-toggle="modal">
-          <img src="/sites/all/themes/zen/starterkit/images/sert/mini-sert-sb.jpg">
+          <img src="/sites/all/themes/zen/STARTERKIT/images/sert/mini-sert-sb.jpg">
           </a>
           <div class="slide_block"><div class="slide_text">Сертификат обучения Сбербанк России</div> 
         </div>
        </div>
        <div class="slide">
           <a href="#svid" data-toggle="modal"> 
-          <img src="/sites/all/themes/zen/starterkit/images/sert/mini-svid.jpg">
+          <img src="/sites/all/themes/zen/STARTERKIT/images/sert/mini-svid.jpg">
           </a>
           <div class="slide_block"><div class="slide_text">Свидетельстов "Технология активных продаж в риэлторском бизнесе"</div> 
         </div>
        </div>
        <div class="slide">
           <a href="#svid-reg" data-toggle="modal"> 
-          <img src="/sites/all/themes/zen/starterkit/images/sert/mini-svid_reg.jpg">
+          <img src="/sites/all/themes/zen/STARTERKIT/images/sert/mini-svid_reg.jpg">
           </a>
           <div class="slide_block"><div class="slide_text">Свидетельство "Гос.регистрация прав на недвижимое имущество и сделок с ним"</div> 
         </div>
        </div>
        <div class="slide">
          <a href="#svid-upr" data-toggle="modal"> 
-          <img src="/sites/all/themes/zen/starterkit/images/sert/mini-svid_upr.jpg">
+          <img src="/sites/all/themes/zen/STARTERKIT/images/sert/mini-svid_upr.jpg">
          </a>
           <div class="slide_block"><div class="slide_text">Свидетельство "Управление и стратегия развития риэлторской компании"</div> 
         </div>
        </div>
        <div class="slide">
         <a href="#svid-uch" data-toggle="modal">
-          <img src="/sites/all/themes/zen/starterkit/images/sert/mini-svid-uch.jpg">
+          <img src="/sites/all/themes/zen/STARTERKIT/images/sert/mini-svid-uch.jpg">
         </a>  
           <div class="slide_block"><div class="slide_text">Свидетельство участия в семинаре Михаила Гороховского "Путь успеха риэлтора"</div> 
         </div>
@@ -274,7 +274,7 @@ include ("my_templates/my_template.php");
                <div class="span3">
                  <div class="row-fluid gradituder_img">
                  <!-- photo -->
-                 <img src="/sites/all/themes/zen/starterkit/images/a-boiko.png">
+                 <img src="/sites/all/themes/zen/STARTERKIT/images/a-boiko.png">
                  </div>
                  <div class="row-fluid gradituder_author_text">
                      Андрей Бойко - предприниматель
@@ -337,7 +337,7 @@ include ("my_templates/my_template.php");
          <div class="span1"></div>
          <div class="span5 very_little_white_text">Copyright &copy 2014 Мария Николаевна Андреева</div>
          <div class="span1"></div>
-         <div class="span4 very_little_white_text">Разработано <a href="http:\\sellingsites.pro"><img src="/sites/all/themes/zen/starterkit/images/sellingsites.png"></a></div>
+         <div class="span4 very_little_white_text">Разработано <a href="http:\\sellingsites.pro"><img src="/sites/all/themes/zen/STARTERKIT/images/sellingsites.png"></a></div>
          <div class="span1"></div>
       </div>
    </div>
@@ -419,7 +419,7 @@ for ($i=0;$i<9;$i++){
         <h3 id='myModalLabel'>Сертификаты</h3>
       </div>
       <div class='modal-body'>
-       <img src='/sites/all/themes/zen/starterkit/images/sert/".$array_links[$i].".jpg'>";
+       <img src='/sites/all/themes/zen/STARTERKIT/images/sert/".$array_links[$i].".jpg'>";
   echo "   
       <div class='modal-footer'>
         <button class='btn' data-dismiss='modal' aria-hidden='true'>Закрыть</button> 

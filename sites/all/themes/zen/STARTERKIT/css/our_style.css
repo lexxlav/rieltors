@@ -581,11 +581,11 @@ outline: none;
 
 .room_background {
 	min-height: 200px;
-	height:600px;
+	height:560px;
 	background-image: url("../images/bg.jpg");
 	background-position: 0 -10px;
 	background-repeat: no-repeat; 
-	background-size: auto 560px;
+	background-size: 100% 100%;
 }
 
 .horror_women 
@@ -658,7 +658,7 @@ outline: none;
 	background-image: url("../images/bg.jpg");
 	background-position: 0 -10px;
 	background-repeat: no-repeat; 
-	background-size: auto 560px;
+	background-size: 100% 100%;*/
 /*	filter: alpha(Opacity=25); /* Полупрозрачность для IE */
  /*   opacity: 0.25; */
     color: #484848;
