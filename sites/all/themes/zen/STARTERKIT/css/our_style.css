@@ -933,7 +933,7 @@ background-size: 128px;}
 }
 
 .big_sl .slide {
-	height: 220px;
+	height: auto;
    vertical-align: top;
 }
 
@@ -942,7 +942,7 @@ background-size: 128px;}
 	border: 2px solid #cfcfcf;
 	border-radius: 10px;
 	margin-bottom: 30px;
-	height: 220px;
+	height: auto;
 }
 
 .gradituders_text
